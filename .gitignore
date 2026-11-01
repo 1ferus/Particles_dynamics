@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+results/
+results/*.csv
+results/*.txt
+report.docx
+report.pdf
+GITHUB_SETUP.md
+particle_dynamics_1.gif
+particle_dynamics_1_dark.gif
+particle_dynamics_2.gif
